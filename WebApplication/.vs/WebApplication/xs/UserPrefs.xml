@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{88A1B420-4FCD-4C8E-A46D-7A3793AF87AA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication/ClientApp/src/components/FetchData.js">
+    <Files>
+      <File FileName="WebApplication/Program.cs" Line="22" Column="18" />
+      <File FileName="WebApplication/Startup.cs" />
+      <File FileName="WebApplication/Controllers/WeatherForecastController.cs" />
+      <File FileName="WebApplication/ClientApp/public/index.html" />
+      <File FileName="WebApplication/ClientApp/src/index.js" />
+      <File FileName="WebApplication/ClientApp/src/App.js" />
+      <File FileName="WebApplication/ClientApp/src/components/Counter.js" />
+      <File FileName="WebApplication/ClientApp/src/components/Home.js" />
+      <File FileName="WebApplication/ClientApp/package.json" />
+      <File FileName="WebApplication/WebApplication.csproj" />
+      <File FileName="WebApplication/ClientApp/src/components/FetchData.js" Line="26" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApplication" expanded="True">
+            <Node name="WebApplication" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="public" expanded="True" />
+                <Node name="src" expanded="True">
+                  <Node name="components" expanded="True">
+                    <Node name="FetchData.js" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApplication PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
